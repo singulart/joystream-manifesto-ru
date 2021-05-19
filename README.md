@@ -1,1 +1,2 @@
-# joystream-manifesto-ru
+# Оригинал манифеста https://www.joystream.org/manifesto
+
